@@ -1,3 +1,2 @@
-class  MyList
-    
+class MyList
 end
